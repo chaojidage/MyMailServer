@@ -64,7 +64,7 @@ public class POPServer extends Thread {
 
 /**
  * 客户端代理线程
- * @author 郭清明
+ * @author zsd
  *
  */
 class POPServerThread extends Thread {
