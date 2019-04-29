@@ -1,0 +1,4 @@
+# MyMailServer
+一个提供了pop3服务和smtp服务的邮件服务器
+
+服务主要在service包里面，里面有pop3Server，主要作用是收信，smtpServer主要作用是发信。可以提供java mail调用
